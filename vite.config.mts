@@ -6,11 +6,10 @@ import 'npm:lit@^2.7.5'
 export default defineConfig({
   build: {
     lib: {
-      entry: 'src/my-element.ts',
+      entry: 'index.html',
       formats: ['es']
     },
     rollupOptions: {
-      external: /^lit/
     }
   }
 })
