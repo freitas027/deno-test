@@ -34,6 +34,6 @@ jobs:
       - name: Upload to Deno Deploy
         uses: denoland/deployctl@v1
         with:
-          project: "sour-clam-54"
+          project: "filipe-freitas"
           entrypoint: https://deno.land/std@0.202.0/http/file_server.ts
           root: "dist" # 📝 Update the root if necessary
