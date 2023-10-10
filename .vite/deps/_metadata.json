@@ -1,0 +1,19 @@
+{
+  "hash": "2793edc9",
+  "browserHash": "f173d105",
+  "optimized": {
+    "lit": {
+      "src": "../../node_modules/.deno/lit@2.8.0/node_modules/lit/index.js",
+      "file": "lit.js",
+      "fileHash": "4a07cf45",
+      "needsInterop": false
+    },
+    "lit/decorators.js": {
+      "src": "../../node_modules/.deno/lit@2.8.0/node_modules/lit/decorators.js",
+      "file": "lit_decorators__js.js",
+      "fileHash": "6567ab2a",
+      "needsInterop": false
+    }
+  },
+  "chunks": {}
+}
